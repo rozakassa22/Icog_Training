@@ -1,6 +1,6 @@
 class Graph:
     """
-    A class to represent a graph using adjacency list representation.
+    This class to represent a graph using adjacency list representation.
     """
 
     def __init__(self):
